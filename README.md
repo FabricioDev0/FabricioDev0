@@ -63,23 +63,23 @@
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/>
-      <br><b>Java</b><br>⭐⭐⭐⭐
+      <br><b>Java</b><br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP"/>
-      <br><b>PHP</b><br>⭐⭐⭐
+      <br><b>PHP</b><br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
-      <br><b>C++</b><br>⭐⭐⭐⭐
+      <br><b>C++</b><br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
-      <br><b>Python</b><br>⭐⭐⭐⭐
+      <br><b>Python</b><br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" alt="Dart"/>
-      <br><b>Dart</b><br>⭐⭐⭐
+      <br><b>Dart</b><br>⭐⭐⭐⭐⭐
     </td>
   </tr>
 </table>
