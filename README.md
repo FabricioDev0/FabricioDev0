@@ -111,31 +111,13 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/FabricioDev0/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=FabricioDev0&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Fabricio's GitHub Stats" />
-</a>
-
-<a href="https://github.com/FabricioDev0/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDev0&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
-</a>
-
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+<br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=FabricioDev0&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FabricioDev0&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=FabricioDev0&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 ---
@@ -177,6 +159,8 @@ const fabricio = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FabricioDev0&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
