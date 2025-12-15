@@ -231,17 +231,27 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioDev0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDev0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <a href="https://github.com/FabricioDev0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioDev0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/FabricioDev0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDev0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=radical&hide_border=true&background=0d1117" alt="FabricioDev0's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FabricioDev0&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 # 🎯 Current Focus
+
+<div align="center">
 
 ```javascript
 const fabricio = {
@@ -252,6 +262,8 @@ const fabricio = {
   funFact: "Every line of code should tell a story."
 };
 ```
+
+</div>
 
 ---
 
