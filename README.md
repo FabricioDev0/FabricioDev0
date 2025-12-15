@@ -3,24 +3,17 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=650&height=100&lines=Systems+Engineering+Student+🎓;Software+Developer+💻;Building+meaningful+digital+experiences+🚀;From+Lima%2C+Peru+🇵🇪" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=650&height=100&lines=Systems+Engineering+Student+🎓;Software+Developer+💻;Building+meaningful+digital+experiences+🚀;From+Lima%2C+Peru+🇵🇪" />
 </div>
 
 ---
 
 # 🚀 About Me
 
-<div align="left">
-
-💻 Passionate about **software development**, crafting **useful**, **fun**, and **impactful** tools.
-
-🎓 **Systems Engineering Student** based in **Lima, Peru**
-
-📱 Focused on **Mobile Development (Flutter)** & modern **Web Technologies**
-
+💻 Passionate about **software development**, crafting **useful**, **fun**, and **impactful** tools.  
+🎓 **Systems Engineering Student** based in **Lima, Peru 🇵🇪**  
+📱 Focused on **Mobile Development (Flutter)** & **Modern Web Technologies**  
 🌱 Always learning, building, and improving as a developer.
-
-</div>
 
 ---
 
@@ -30,13 +23,13 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://flagcdn.com/w80/es.png" width="55" alt="Spanish"/>
-      <br><strong>Spanish</strong>
+      <img src="https://flagcdn.com/w80/es.png" width="55"/>
+      <br><b>Spanish</b>
       <br><sub>Native</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://flagcdn.com/w80/us.png" width="55" alt="English"/>
-      <br><strong>English</strong>
+      <img src="https://flagcdn.com/w80/us.png" width="55"/>
+      <br><b>English</b>
       <br><sub>Intermediate</sub>
     </td>
   </tr>
@@ -48,95 +41,170 @@
 # 💻 Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,php,cpp,python,dart&theme=dark" alt="Programming Languages"/>
-</div>
-
-<br>
-
-<div align="center">
-
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/>
-      <br><b>JavaScript</b><br>⭐⭐⭐⭐⭐
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/><br>Java<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48"/><br>PHP<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/><br>C++<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br>Python<br>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48"/><br>Dart<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48"/><br>C#<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="48"/><br>Kotlin<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript<br>⭐⭐⭐⭐⭐</td>
+    <td align="center"></td>
+  </tr>
+</table>
+</div>
+
+---
+
+# 🛠️ Frameworks, Tools & Technologies
+
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/> 
+  <strong>Android</strong> ⭐⭐⭐⭐⭐
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/> 
+  <strong>Flutter</strong> ⭐⭐⭐⭐⭐
+</div>
+
+---
+
+### 🎨 Frontend Development
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+      <br>⭐⭐⭐⭐⭐
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/>
-      <br><b>Java</b><br>⭐⭐⭐⭐⭐
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+      <br>⭐⭐⭐⭐⭐
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP"/>
-      <br><b>PHP</b><br>⭐⭐⭐⭐⭐
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+      <br>⭐⭐⭐⭐⭐
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
-      <br><b>C++</b><br>⭐⭐⭐⭐⭐
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
-      <br><b>Python</b><br>⭐⭐⭐⭐⭐
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" alt="Dart"/>
-      <br><b>Dart</b><br>⭐⭐⭐⭐⭐
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      <br>Vue.js
+      <br>⭐⭐⭐⭐⭐
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
-# 🛠️ Frameworks & Technologies
-
+### ⚙️ Backend Development
 <div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      <br>Django
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
+      <br>.NET
+      <br>⭐⭐⭐⭐⭐
+    </td>
+  </tr>
+</table>
+</div>
 
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark"/>
-
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark"/>
-
-### 🔧 Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark"/>
+---
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
-
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" alt="MariaDB" />
+      <br>MariaDB
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+      <br>⭐⭐⭐⭐⭐
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
+### 🔧 Tools & Platforms
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=FabricioDev0&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+      <br>⭐⭐⭐⭐⭐
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
 # 🎯 Current Focus
 
-<div align="center">
-
 ```javascript
 const fabricio = {
   location: "Lima, Peru 🇵🇪",
   education: "Systems Engineering Student",
-  currentlyLearning: ["Flutter", "Dart", "Mobile Development"],
-  interests: ["Software Development", "Problem Solving", "Clean Code"],
+  currentlyLearning: ["Flutter", "Mobile Development"],
+  interests: ["Clean Code", "Problem Solving", "Software Architecture"],
   funFact: "Every line of code should tell a story."
 };
 ```
-
-</div>
 
 ---
 
@@ -144,20 +212,20 @@ const fabricio = {
 
 <div align="center">
   <a href="mailto:fabricio.baldera@upsjb.edu.pe">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/FabricioDev0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/fabriciodev0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FabricioDev0&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=FabricioDev0&color=F75C7E&style=for-the-badge&label=Profile+Views"/>
 </div>
 
 <br>
