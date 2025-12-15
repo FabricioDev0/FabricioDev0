@@ -43,18 +43,46 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/><br>Java<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48"/><br>PHP<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/><br>C++<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br>Python<br>⭐⭐⭐⭐⭐</td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
+      <br>PHP
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48"/><br>Dart<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48"/><br>C#<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="48"/><br>Kotlin<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript<br>⭐⭐⭐⭐⭐</td>
-    <td align="center"></td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart"/>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="48" height="48" alt="Kotlin"/>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+    </td>
   </tr>
 </table>
 </div>
@@ -74,6 +102,8 @@
 
 ---
 
+# 🛠️ Tech Stack
+
 ### 🎨 Frontend Development
 <div align="center">
 <table>
@@ -81,22 +111,26 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       <br>CSS3
-      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br>React
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
       <br>Vue.js
-      <br>⭐⭐⭐⭐⭐
     </td>
   </tr>
 </table>
@@ -111,17 +145,26 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
-      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       <br>Django
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
       <br>.NET
-      <br>⭐⭐⭐⭐⭐
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
   </tr>
 </table>
@@ -136,22 +179,18 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" alt="MariaDB" />
       <br>MariaDB
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" />
       <br>SQLite
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
-      <br>⭐⭐⭐⭐⭐
     </td>
   </tr>
 </table>
@@ -166,30 +205,38 @@
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
       <br>Git
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       <br>Docker
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       <br>Postman
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
       <br>Figma
-      <br>⭐⭐⭐⭐⭐
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br>Linux
-      <br>⭐⭐⭐⭐⭐
     </td>
   </tr>
 </table>
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioDev0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDev0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=radical&hide_border=true&background=0d1117" alt="FabricioDev0's streak"/>
 </div>
 
 ---
@@ -212,20 +259,22 @@ const fabricio = {
 
 <div align="center">
   <a href="mailto:fabricio.baldera@upsjb.edu.pe">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/FabricioDev0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/fabriciodev0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FabricioDev0&color=F75C7E&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=FabricioDev0&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br>
