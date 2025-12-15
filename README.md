@@ -243,10 +243,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FabricioDev0&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 # 🎯 Current Focus
