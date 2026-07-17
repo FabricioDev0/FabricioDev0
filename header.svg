@@ -1,0 +1,29 @@
+<svg width="1774" height="886" viewBox="0 0 1774 886" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b27"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#7c7ce8"/>
+      <stop offset="100%" stop-color="#4aa3f0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="1766" height="878" rx="24" fill="url(#bgGrad)" stroke="#2d3344" stroke-width="1"/>
+
+  <text x="887" y="360" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="118" font-weight="700"
+        fill="url(#nameGrad)">Fabricio Baldera</text>
+
+  <text x="887" y="452" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600"
+        letter-spacing="4" fill="#c7ccd6">SYSTEMS ENGINEERING STUDENT · MOBILE DEVELOPER</text>
+
+  <line x1="480" y1="522" x2="1294" y2="522" stroke="#3a4152" stroke-width="1.5"/>
+
+  <text x="887" y="612" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="400"
+        fill="#9aa3b5">Flutter · Firebase · Android Studio · Automation · Open Source</text>
+</svg>
