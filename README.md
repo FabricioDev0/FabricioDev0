@@ -1,296 +1,128 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20👋%20I'm%20Fabricio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Fabricio Baldera"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=650&height=100&lines=Systems+Engineering+Student+🎓;Software+Developer+💻;Building+meaningful+digital+experiences+🚀;From+Lima%2C+Peru+🇵🇪" />
-</div>
+<p align="center">
+  <a href="mailto:fabricio.baldera@upsjb.edu.pe" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/FabricioDev0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/fabriciodev0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 🚀 About Me
+## 👨‍💻 Sobre mí
 
-💻 Passionate about **software development**, crafting **useful**, **fun**, and **impactful** tools.  
-🎓 **Systems Engineering Student** based in **Lima, Peru 🇵🇪**  
-📱 Focused on **Mobile Development (Flutter)** & **Modern Web Technologies**  
-🌱 Always learning, building, and improving as a developer.
+```javascript
+const fabricio = {
+    nombre     : "Fabricio Baldera",
+    rol        : "Systems Engineering Student · Software Developer",
+    ubicacion  : "Lima, Perú 🇵🇪",
+    dominio    : "Flutter · Firebase · Mobile Development · Automation",
+    enfoque    : ["Clean Code", "Problem Solving", "Software Architecture"],
+    conecta    : "Abierto a nuevos proyectos y colaboraciones",
+};
+```
 
----
+Estudiante de Ingeniería de Sistemas apasionado por crear herramientas útiles, divertidas y con impacto real. Enfocado en **desarrollo móvil con Flutter** y **tecnologías web modernas**, además de explorar **automatización de flujos de trabajo** con herramientas como n8n. Siempre aprendiendo, construyendo y mejorando como desarrollador.
 
-# 🌍 Languages
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌍 Idiomas
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
       <img src="https://flagcdn.com/w80/es.png" width="55"/>
-      <br><b>Spanish</b>
-      <br><sub>Native</sub>
+      <br><b>Español</b>
+      <br><sub>Nativo</sub>
     </td>
     <td align="center" width="50%">
       <img src="https://flagcdn.com/w80/us.png" width="55"/>
-      <br><b>English</b>
-      <br><sub>Intermediate</sub>
+      <br><b>Inglés</b>
+      <br><sub>Intermedio</sub>
     </td>
   </tr>
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 💻 Programming Languages
+## 🛠️ Stack
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
-      <br>PHP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart"/>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="48" height="48" alt="Kotlin"/>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-    </td>
-  </tr>
-</table>
-</div>
+**Lenguajes**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-# 🛠️ Frameworks, Tools & Technologies
+**Mobile Development**
 
-### 📱 Mobile Development
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/> 
-  <strong>Android</strong> ⭐⭐⭐⭐⭐
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/> 
-  <strong>Flutter</strong> ⭐⭐⭐⭐⭐
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+**Frontend**
 
-# 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend Development
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
-      <br>Vue.js
-    </td>
-  </tr>
-</table>
-</div>
+**Backend & Datos**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚙️ Backend Development
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
-      <br>.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-  </tr>
-</table>
-</div>
+**Automatización & Análisis**
 
----
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" alt="MariaDB" />
-      <br>MariaDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-  </tr>
-</table>
-</div>
+**Herramientas**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔧 Tools & Platforms
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/FabricioDev0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioDev0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/FabricioDev0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDev0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDev0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const fabricio = {
-  location: "Lima, Peru 🇵🇪",
-  education: "Systems Engineering Student",
-  currentlyLearning: ["Flutter", "Mobile Development"],
-  interests: ["Clean Code", "Problem Solving", "Software Architecture"],
-  funFact: "Every line of code should tell a story."
-};
-```
-
-</div>
-
----
-
-# 📫 Let's Connect!
-
-<div align="center">
-  <a href="mailto:fabricio.baldera@upsjb.edu.pe">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabricioDev0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
   &nbsp;
-  <a href="https://github.com/FabricioDev0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=FabricioDev0&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabricioDev0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="145" alt="Top Languages"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📌 Proyecto Destacado
+
+<div align="center">
+  <a href="https://github.com/FabricioDev0/MVC_JOAYMI">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=FabricioDev0&repo=MVC_JOAYMI&theme=tokyonight&hide_border=true"/>
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/fabriciodev0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FabricioDev0&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=FabricioDev0&color=blueviolet&style=for-the-badge&label=Visitas+al+perfil" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/FabricioDev0">FabricioDev0</a> with 💙</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b27&height=80&section=footer" width="100%"/>
 </div>
